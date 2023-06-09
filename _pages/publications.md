@@ -18,6 +18,6 @@ _SPAA 2022_
 [[pdf]](/files/flow_time_energy.pdf)
 
 **Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics.**  
-Cong Ma*, Uthsav Chitra*, Shirley Zhang, Benjamin Raphael  
+Cong Ma\*, Uthsav Chitra\*, Shirley Zhang, Benjamin Raphael  
 _RECOMB 2022_  
 [[pdf]](/files/belayer.pdf)
