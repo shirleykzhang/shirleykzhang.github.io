@@ -7,12 +7,7 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics.**
+Cong Ma*, Uthsav Chitra*, Shirley Zhang, and Benjamin Raphael
+_RECOMB 2022_
+[pdf](/files/belayer.pdf)
