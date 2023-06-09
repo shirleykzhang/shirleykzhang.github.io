@@ -16,8 +16,9 @@ _Working Paper_
 Sami Davies, Samir Khuller, Shirley Zhang  
 _SPAA 2022_  
 [[pdf]](/files/flow_time_energy.pdf)  
+<!-- MAPSP talk -->
 
 **Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics.**  
 Cong Ma\*, Uthsav Chitra\*, Shirley Zhang, Benjamin Raphael  
-_RECOMB 2022_  
-[[pdf]](/files/belayer.pdf)  
+_RECOMB 2022/Cell Systems 2022_  
+[[pdf]](/files/belayer.pdf)
