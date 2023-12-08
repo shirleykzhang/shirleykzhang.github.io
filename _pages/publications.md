@@ -9,13 +9,13 @@ author_profile: true
 
 **The Distortion of Binomial Voting Defies Expectation**  
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
-_Working Paper_  
+_NeurIPS 2023_  
 [[pdf]](/files/binomial_voting.pdf) 
 
-**The Distortion of Binomial Voting Defies Expectation**  
-Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
-_Working Paper_  
-[[pdf]](/files/binomial_voting.pdf) 
+**Selling to Multiple No-Regret Buyers**  
+Linda Cai, S. Matthew Weinberg, Evan Wildenhain, Shirley Zhang  
+_WINE 2023_  
+[[pdf]](/files/no_regret_arxiv.pdf) 
 
 **Balancing Flow Time and Energy Consumption**  
 Sami Davies, Samir Khuller, Shirley Zhang  
