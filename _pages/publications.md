@@ -10,7 +10,7 @@ author_profile: true
 **The Distortion of Binomial Voting Defies Expectation**  
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _Working Paper_  
-[[pdf]](/files/expdistortion.pdf)  
+[[pdf]](/files/binomial_voting.pdf)  
 
 **Balancing Flow Time and Energy Consumption**  
 Sami Davies, Samir Khuller, Shirley Zhang  
