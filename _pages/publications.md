@@ -7,15 +7,36 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
+**Honor Among Bandits: No-Regret Learning for Online Fair Division**  
+Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_Working Paper_  
+[[pdf]](/files/bandits_fair_division.pdf) 
+
+**Multi-District School Choice: Playing on Several Fields**  
+Yannai Gonczarowski, Michael Yin, Shirley Zhang  
+_Working Paper_  
+[[pdf]](/files/multi_district_school_choice.pdf) 
+
+**Multi-Apartment Rent Division**  
+Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_Working Paper_  
+[[pdf]](/files/multi_apartment_rent_division.pdf) 
+
+**Online Flexible Busy Time Scheduling on Heterogeneous Machines**  
+Gruia Calinescu, Sami Davies, Samir Khuller, Shirley Zhang  
+_ESA 2024_  
+[[pdf]](/files/online_shuttles.pdf) 
+
 **The Distortion of Binomial Voting Defies Expectation**  
-Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
 _NeurIPS 2023_  
 [[pdf]](/files/binomial_voting.pdf) 
+<!-- Northwestern presentation -->
 
 **Selling to Multiple No-Regret Buyers**  
 Linda Cai, S. Matthew Weinberg, Evan Wildenhain, Shirley Zhang  
 _WINE 2023_  
-[[pdf]](/files/no_regret_arxiv.pdf) 
+[[pdf]](/files/no_regret_buyers.pdf) 
 
 **Balancing Flow Time and Energy Consumption**  
 Sami Davies, Samir Khuller, Shirley Zhang  
