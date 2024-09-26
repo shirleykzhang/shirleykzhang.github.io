@@ -17,7 +17,6 @@ Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang
 _Working Paper_  
 [[pdf]](/files/multi_apartment_rent_division.pdf) 
 
-
 **Honor Among Bandits: No-Regret Learning for Online Fair Division**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
 _NeurIPS 2024_ - **Spotlight Paper**   
