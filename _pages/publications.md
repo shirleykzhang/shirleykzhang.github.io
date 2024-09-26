@@ -7,11 +7,6 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-**Honor Among Bandits: No-Regret Learning for Online Fair Division**  
-Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
-_Working Paper_  
-[[pdf]](/files/bandits_fair_division.pdf) 
-
 **Multi-District School Choice: Playing on Several Fields**  
 Yannai Gonczarowski, Michael Yin, Shirley Zhang  
 _Working Paper_  
@@ -22,6 +17,12 @@ Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang
 _Working Paper_  
 [[pdf]](/files/multi_apartment_rent_division.pdf) 
 
+
+**Honor Among Bandits: No-Regret Learning for Online Fair Division**  
+Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_NeurIPS 2024_ - **Spotlight Paper**   
+[[pdf]](/files/bandits_fair_division.pdf) 
+
 **Online Flexible Busy Time Scheduling on Heterogeneous Machines**  
 Gruia Calinescu, Sami Davies, Samir Khuller, Shirley Zhang  
 _ESA 2024_  
@@ -31,7 +32,6 @@ _ESA 2024_
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
 _NeurIPS 2023_  
 [[pdf]](/files/binomial_voting.pdf) 
-<!-- Northwestern presentation -->
 
 **Selling to Multiple No-Regret Buyers**  
 Linda Cai, S. Matthew Weinberg, Evan Wildenhain, Shirley Zhang  
@@ -42,7 +42,6 @@ _WINE 2023_
 Sami Davies, Samir Khuller, Shirley Zhang  
 _SPAA 2022_  
 [[pdf]](/files/flow_time_energy.pdf)  
-<!-- MAPSP talk -->
 
 **Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics.**  
 Cong Ma\*, Uthsav Chitra\*, Shirley Zhang, Benjamin Raphael  
