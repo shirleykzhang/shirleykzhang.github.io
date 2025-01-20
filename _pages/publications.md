@@ -24,12 +24,12 @@ _AAAI 2025_
 
 **Multi-Apartment Rent Division**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
-_AAAI 2025_  
+_AAAI 2025_ - **Oral (4.6% of submissions)**   
 [[pdf]](/files/multi_apartment_rent_division.pdf) 
 
 **Honor Among Bandits: No-Regret Learning for Online Fair Division**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
-_NeurIPS 2024_ - **Spotlight Paper**   
+_NeurIPS 2024_ - **Spotlight (2.1% of submissions)**   
 [[pdf]](/files/bandits_fair_division.pdf) 
 
 **Online Flexible Busy Time Scheduling on Heterogeneous Machines**  
