@@ -7,15 +7,20 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-**Clone-Robust AI Alignment**  
-Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+**Metritocracy: Representative Metrics for Lite Benchmarks**  
+Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang  
 _Working Paper_  
-[[pdf]](/files/clone_robust_ai_alignment.pdf) 
+[[pdf]](/files/metritocracy.pdf) 
 
 **Multi-District School Choice: Playing on Several Fields**  
 Yannai Gonczarowski, Michael Yin, Shirley Zhang  
 _Working Paper_  
 [[pdf]](/files/multi_district_school_choice.pdf) 
+
+**Clone-Robust AI Alignment**  
+Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_ICML 2025_  
+[[pdf]](/files/clone_robust_ai_alignment.pdf) 
 
 **Improved Regret Bounds for Online Fair Division with Bandit Learning**  
 Benjamin Schiffer, Shirley Zhang  
