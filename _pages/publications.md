@@ -7,15 +7,15 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-**Metritocracy: Representative Metrics for Lite Benchmarks**  
-Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang  
-_Working Paper_  
-[[pdf]](/files/metritocracy.pdf) 
-
 **Multi-District School Choice: Playing on Several Fields**  
 Yannai Gonczarowski, Michael Yin, Shirley Zhang  
 _Working Paper_  
 [[pdf]](/files/multi_district_school_choice.pdf) 
+
+**Metritocracy: Representative Metrics for Lite Benchmarks**  
+Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang  
+_NeurIPS 2025_  
+[[pdf]](/files/metritocracy.pdf) 
 
 **Clone-Robust AI Alignment**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
