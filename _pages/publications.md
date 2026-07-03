@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(Authors listed alphabetically unless not)
+(Authors listed alphabetically unless marked by *)
 
 **AI Alignment From Social Choice Perspectives**  
 Daniel Halpern, Evi Micha, Ariel D. Procaccia, Benjamin Schiffer, Itai Shapira, Shirley Zhang  
