@@ -7,9 +7,29 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
+**AI Alignment From Social Choice Perspectives**  
+Daniel Halpern, Evi Micha, Ariel D. Procaccia, Benjamin Schiffer, Itai Shapira, Shirley Zhang  
+_SIGecom Exchanges 2026_  
+[[pdf]](/files/ai_alignment_survey.pdf)  
+
+**Truthful Fair Division under Stochastic Valuations**  
+Daniel Halpern, Alexandros Psomas, Shirley Zhang  
+_EC 2026_  
+[[pdf]](/files/ic_fair_division.pdf)  
+
+**Finding Common Ground in a Sea of Alternatives**  
+Jay Chooi, Paul Gölz, Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_EC 2026_  
+[[pdf]](/files/pvc.pdf)  
+
 **Multi-District School Choice: Playing on Several Fields**  
 Yannai Gonczarowski, Michael Yin, Shirley Zhang  
-_Working Paper_  
+_AAAI 2026_  
+[[pdf]](/files/multi_district_school_choice.pdf) 
+
+**Multi-District School Choice: Playing on Several Fields**  
+Yannai Gonczarowski, Michael Yin, Shirley Zhang  
+_AAAI 2026_  
 [[pdf]](/files/multi_district_school_choice.pdf) 
 
 **Metritocracy: Representative Metrics for Lite Benchmarks**  
