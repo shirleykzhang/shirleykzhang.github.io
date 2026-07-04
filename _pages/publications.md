@@ -27,11 +27,6 @@ Yannai Gonczarowski, Michael Yin, Shirley Zhang
 _AAAI 2026_  
 [[pdf]](/files/multi_district_school_choice.pdf) 
 
-**Multi-District School Choice: Playing on Several Fields**  
-Yannai Gonczarowski, Michael Yin, Shirley Zhang  
-_AAAI 2026_  
-[[pdf]](/files/multi_district_school_choice.pdf) 
-
 **Metritocracy: Representative Metrics for Lite Benchmarks**  
 Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang  
 _NeurIPS 2025_  
