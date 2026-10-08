@@ -7,6 +7,11 @@ author_profile: true
 
 (Authors listed alphabetically unless marked by *)
 
+**Multi-Level Aggregation via Dual Fitting: An $O(D)$-Competitive Algorithm**  
+Sara Ahmadian, Shuchi Chawla, Ravi Kumar, Manish Purohit, Shirley Zhang  
+_SODA 2027_  
+[[pdf]](/files/mlap.pdf)  
+
 **AI Alignment From Social Choice Perspectives**  
 Daniel Halpern, Evi Micha, Ariel D. Procaccia, Benjamin Schiffer, Itai Shapira, Shirley Zhang  
 _SIGecom Exchanges 2026_  
