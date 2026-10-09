@@ -7,7 +7,28 @@ author_profile: true
 
 (Authors listed alphabetically unless marked by \*)
 
-## AI Alignment and Evaluation
+<style>
+.pub-topic {
+  margin: 1em 0;
+  padding: 0 1em;
+  border: 1px solid #dce1e7;
+  border-radius: 5px;
+}
+.pub-topic > summary {
+  margin: 0 -1em;
+  padding: 0.75em 1em;
+  background: #f3f5f7;
+  color: #30343a;
+  font-weight: 600;
+  cursor: pointer;
+}
+.pub-topic[open] > summary { border-bottom: 1px solid #dce1e7; }
+.pub-topic > p { margin: 0; padding: 1em 0; }
+.pub-topic > p + p { border-top: 1px solid #dce1e7; }
+</style>
+
+<details class="pub-topic" markdown="block">
+<summary>AI Alignment and Evaluation</summary>
 
 **AI Alignment From Social Choice Perspectives**  
 Daniel Halpern, Evi Micha, Ariel D. Procaccia, Benjamin Schiffer, Itai Shapira, Shirley Zhang  
@@ -29,9 +50,12 @@ Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang
 _ICML 2025_  
 [[pdf]](/files/clone_robust_ai_alignment.pdf)
 
-## Online Algorithms and Scheduling
+</details>
 
-**Multi-Level Aggregation via Dual Fitting: An $O(D)$-Competitive Algorithm**  
+<details class="pub-topic" markdown="block">
+<summary>Online Algorithms and Scheduling</summary>
+
+**Multi-Level Aggregation via Dual Fitting: An *O*(*D*)-Competitive Algorithm**  
 Sara Ahmadian, Shuchi Chawla, Ravi Kumar, Manish Purohit, Shirley Zhang  
 _SODA 2027_  
 [[pdf]](/files/mlap.pdf)
@@ -46,7 +70,10 @@ Sami Davies, Samir Khuller, Shirley Zhang
 _SPAA 2022_  
 [[pdf]](/files/flow_time_energy.pdf)
 
-## Fair Division
+</details>
+
+<details class="pub-topic" markdown="block">
+<summary>Fair Division</summary>
 
 **Truthful Fair Division under Stochastic Valuations**  
 Daniel Halpern, Alexandros Psomas, Shirley Zhang  
@@ -60,15 +87,18 @@ _AAAI 2025_
 
 **Multi-Apartment Rent Division**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
-_AAAI 2025_ - **Oral (4.6% of submissions)**  
+_AAAI 2025_ — **Oral (4.6% of submissions)**  
 [[pdf]](/files/multi_apartment_rent_division.pdf)
 
 **Honor Among Bandits: No-Regret Learning for Online Fair Division**  
 Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
-_NeurIPS 2024_ - **Spotlight (2.1% of submissions)**  
+_NeurIPS 2024_ — **Spotlight (2.1% of submissions)**  
 [[pdf]](/files/bandits_fair_division.pdf)
 
-## Other Research
+</details>
+
+<details class="pub-topic" markdown="block">
+<summary>Other Research</summary>
 
 **Multi-District School Choice: Playing on Several Fields**  
 Yannai Gonczarowski, Michael Yin, Shirley Zhang  
@@ -89,3 +119,5 @@ _WINE 2023_
 Cong Ma\*, Uthsav Chitra\*, Shirley Zhang, Benjamin Raphael  
 _RECOMB 2022/Cell Systems 2022_  
 [[pdf]](/files/belayer.pdf)
+
+</details>
